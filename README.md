@@ -1,4 +1,4 @@
-# Implementing observability in .NET Core stack
+# Health Track Observability
 
 This document takes a look at current options to implement observability in .NET Core stack. For a quick peek into the sample application check section [Quickly run sample application](#Quickly-run-sample-application)
 
